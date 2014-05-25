@@ -1,0 +1,30 @@
+{
+  "name": "openlayers",
+  "version": "0.0.0",
+  "description": "this is fork of openlayers to add TFS",
+  "main": "OpenLayers.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "dependencies": {
+    "express": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gagan-bansal/openlayers.git"
+  },
+  "keywords": [
+    "openlayers"
+  ],
+  "author": "Gagan Bansal <gaganbansal123@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/gagan-bansal/openlayers/issues"
+  },
+  "homepage": "https://github.com/gagan-bansal/openlayers"
+}
